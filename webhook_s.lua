@@ -1,6 +1,6 @@
 local discord_webhook = {
-    url = "https://discord.com/api/webhooks/977353853462790164/nugWcn6-JUcEJHbqer8AKQciUZA9i6OJoR9cW2WxA_rdHXPA042qQl35yZXuBxyDTIBl",
-    image = "https://imgur.com/a/g7LXW4T"
+    url = "Discord Webhook URL Here,
+    image = "Image URL Here"
 }
 
 AddEventHandler("chatMessage", function(source, author, text)
